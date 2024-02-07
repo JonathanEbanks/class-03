@@ -2,7 +2,8 @@
 
 In this class we learned about git.
 
-The resource given was [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+The resource given was [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/).
+
 
 We learned how to clone git.
 
